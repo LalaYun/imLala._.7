@@ -1,7 +1,11 @@
-# imLala._.7
-my first repository!
+# ImLala._.7
 
+I'm a *Front-End developer, planner,* and *designer.* I'm studying *cryptography and blockchain* at 'the Information Protection and Privacy Laboratory'.
 
+# Profile
+🐵 **Haeun Yun** (Lala Yun)
+🏫 Hanyang University | the Department of Information Systems
+🎉 1999.05.20
+👩‍💻 Cryptography, Blockchain, Front-End
 
-I'm in Hanyang University, the department of Information System.
-Im the happiest girl ever!
+<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
