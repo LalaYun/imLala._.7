@@ -13,6 +13,7 @@ I'm studying *cryptography and blockchain* at 'the Information Protection and Pr
        
     👩‍💻 Cryptography, Blockchain, Front-End   
        
-    📑 More about me | <https://url.kr/s4xc7h> 
           
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
+
+❓ More about me | [Lala's Profile Page](https://url.kr/s4xc7h, "notion link")
